@@ -14,6 +14,7 @@ Sample text
 
 I am going to look at styles to see how they work. 
 
+# Header 1
 
 
 ### Markdown
