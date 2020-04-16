@@ -1,8 +1,15 @@
 ## My First Webpage using GitHub Pages
 
-This is my first attempt to make a webpage using GitHub, I am using the Hello Guild and YouTube Videos to great this page. Lets see how well I can do.
+This is my first attempt to make a webpage using GitHub, I am using the Hello Guild and YouTube Videos to create this page. 
 
-I am going to put in a grey markdown box below
+I am self educating myself in how to use GitHub, so please hang in there with me :-)
+
+
+## My Goal
+
+My goal is to attempt to connect GitHub to a Google Cloud Server. I would like to update a simple HTML web page on an Apache Web Server
+
+
 
 ```markdown
 
@@ -10,9 +17,6 @@ Sample text
 
 ```
 
-## Next Task
-
-I am going to look at styles to see how they work. 
 
 # Header 1
 
