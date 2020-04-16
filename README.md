@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## My First Webpage using GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jackmccullagh/jackmccullagh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my first attempt to make a webpage using GitHub, I am using the Hello Guild and YouTube Videos to great this page. Lets see how well I can do.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am going to put in a grey markdown box below
+
+```markdown
+
+Sample text
+
+```
+
 
 ### Markdown
 
